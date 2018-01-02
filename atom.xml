@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chensir</title>
+  
+  <subtitle>Chensir</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://musicchensir.github.io/"/>
+  <updated>2018-01-02T09:00:00.237Z</updated>
+  <id>https://musicchensir.github.io/</id>
+  
+  <author>
+    <name>Chensir</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>myfirstweb</title>
+    <link href="https://musicchensir.github.io/2018/01/02/index-html/"/>
+    <id>https://musicchensir.github.io/2018/01/02/index-html/</id>
+    <published>2018-01-02T06:09:52.000Z</published>
+    <updated>2018-01-02T09:00:00.237Z</updated>
+    
+    <content type="html"><![CDATA[<p>do right thing everyday ,you’ll recive a happy ending</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;do right thing everyday ,you’ll recive a happy ending&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="for test" scheme="https://musicchensir.github.io/tags/for-test/"/>
+    
+  </entry>
+  
+</feed>
