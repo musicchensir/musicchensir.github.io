@@ -1667,7 +1667,7 @@ pre .javascript .function {
 }
 .sidebar {
   position: fixed;
-  right: 0;
+  left: 0;
   top: 0;
   bottom: 0;
   width: 0;
@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2d4421;
+  background: #3726be;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2910,4 +2910,10 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+#sidebar {
+  background: url("http://d.5857.com/tc_170411/001.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
